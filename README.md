@@ -1,5 +1,5 @@
-# OneDimensionInterference
-Simple C++ program to visualise one dimensional interference.
+# One Dimensional Interference
+Simple C++ program to visualise one dimensional interference using the wave equations.
 
 # Building
 
